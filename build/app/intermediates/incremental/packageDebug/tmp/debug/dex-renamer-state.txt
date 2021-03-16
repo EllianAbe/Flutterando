@@ -1,0 +1,4 @@
+#Sun Mar 14 16:42:05 BRT 2021
+base.0=/home/ellian/Documents/Repository/Flutter/Estudos/flutterando/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
